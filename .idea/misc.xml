@@ -13,9 +13,6 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
-  <component name="ScalaSbtSettings">
-    <option name="customVMPath" />
-  </component>
   <component name="lambda">
     <option name="showAllHandlerGutterIcons" value="true" />
   </component>
